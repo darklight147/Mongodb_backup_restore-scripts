@@ -20,7 +20,6 @@ aws configure
 ```
 
 and paste your credentials
-## Author
 
 ```sh
 sudo nano backup.sh
@@ -45,6 +44,7 @@ To make them executables
 ./backup.sh
 ./restore.sh
 ```
+## Author
 
 👤 **Mohamed Blekamel**
 
